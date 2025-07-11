@@ -45,4 +45,4 @@ A secure, elegant portfolio built with React/Node, tailored to showcase projects
 
 ---
 
-🕶️ *“Build in silence. Let the shadows echo your name.”*
+
