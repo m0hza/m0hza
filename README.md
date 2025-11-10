@@ -19,8 +19,7 @@ Includes task managers and student management software built with Python, Tkinte
 → Emphasizes practical software engineering and user interaction design.
 
 🌐 Full-Stack Portfolio Website (Coming Soon)
-A secure, elegant portfolio built with React/Node, tailored to showcase projects and integrate cybersecurity principles.
-→ Will serve as your digital empire’s foundation.
+A secure, elegant portfolio, tailored to showcase projects and integrate cybersecurity principles.
 ---
 
 ### 🔨 Tools & Tech I Use:
