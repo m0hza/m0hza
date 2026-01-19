@@ -26,13 +26,13 @@ A secure, elegant portfolio, tailored to showcase projects and integrate cyberse
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Postgresql](https://img.shields.io/badge/-postgresql-333?style=flat&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 ---
 
-### 📈 Goals (2025):
+### 📈 Goals (2026):
 - Build & deploy secure full-stack portfolio site.
 - Contribute to open source (esp. cybersecurity or dev tools).
 - Launch my own tech blog on dev + AI + cyber.
