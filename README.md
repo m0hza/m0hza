@@ -1,48 +1,111 @@
-# Mohammed Az-za’atreh | m0hza
+# Mohammed Asha
 
-> *0% talent.100% hardwork.*
+Backend Engineer focused on building reliable systems, scalable APIs, automated testing pipelines, and production-ready software.
 
-🎓 CIS Student | 💻 Backend & Database Dev | 🧠 AI/ML Enthusiast | 🔐 Future Cyber Architect
+Currently studying Computer Information Systems while working on backend engineering, QA automation, database systems, and software architecture.
 
----
+## What I Do
 
-🧠 BrainTumorNet
-Deep learning model for brain tumor classification using EfficientNetB0. Precision-focused, ~97% accuracy.
-→ Showcases AI/ML engineering and medical data application.
-
-🔐 Project-Blackdawn
-A cyber-themed initiative exploring full-stack development and stealth systems.
-→ Blending backend architecture with cybersecurity thinking.
-
-🧾 Desktop System Suite
-Includes task managers and student management software built with Python, Tkinter, and SQLite.
-→ Emphasizes practical software engineering and user interaction design.
-
-🌐 My Full-Stack Portfolio Website
-A secure, elegant portfolio, tailored to showcase projects and integrate cybersecurity principles.
-https://asha.mohamad-ismail-asha.workers.dev/
----
-
-### 🔨 Tools & Tech I Use:
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Postgresql](https://img.shields.io/badge/-postgresql-333?style=flat&logo=postgresql)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+- Backend Development with Java & Spring Boot
+- PostgreSQL Database Design
+- REST API Development
+- QA Engineering & Test Automation
+- Technical Documentation
+- Containerized Development with Docker
+- System Design & Infrastructure-Oriented Projects
 
 ---
 
-### 📈 Goals (2026):
-- Build & deploy secure full-stack portfolio site.
-- Contribute to open source (esp. cybersecurity or dev tools).
-- Launch my own tech blog on dev + AI + cyber.
-- Get certified in ethical hacking / AI.
+## Featured Work
+
+### MOIRA
+Infrastructure intelligence engine designed to model systems as interconnected networks and identify critical dependencies before they become operational risks.
+
+**Tech Stack**
+- Spring Boot
+- PostgreSQL
+- Graph Analysis
+- Risk Modeling
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/mohamed-asha-293472b87)
+### SERAPH
+Semantic intelligence system focused on identifying conceptual relationships and pattern similarity beyond traditional keyword matching.
+
+**Tech Stack**
+- Spring Boot
+- PostgreSQL
+- Retrieval Systems
+- Semantic Analysis
 
 ---
 
+### WeLab Engineering Experience
 
+Contributed to production backend systems and engineering operations including:
+
+- API Documentation
+- QA Framework Design
+- Automated Testing Development
+- SOC 2 Engineering Support
+- Backend Platform Work
+
+**Technologies**
+- Spring Boot
+- PostgreSQL
+- Docker
+- Cypress
+- JUnit
+
+---
+
+## Technical Stack
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- SQL
+
+### Testing & Quality
+- Cypress
+- JUnit
+- QA Framework Design
+- Test Automation
+
+### Infrastructure
+- Docker
+- Git
+- CI/CD Concepts
+
+### Additional Experience
+- Python
+- TypeScript
+- AI/ML Research Projects
+
+---
+
+## Current Focus
+
+- Building production-grade backend systems
+- Expanding QA automation expertise
+- Software architecture and platform engineering
+- International engineering opportunities for 2027
+
+---
+
+## Portfolio
+
+🌐 https://asha.mohamad-ismail-asha.workers.dev
+
+## Connect
+
+💼 LinkedIn  
+https://www.linkedin.com/in/mohamed-asha-293472b87
+
+📧 Contact available through portfolio
+
+---
+
+> Building systems that are owned, tested, documented, and designed to last.
