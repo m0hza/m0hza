@@ -1,110 +1,56 @@
 # Mohammed Asha
 
-Backend Engineer focused on building reliable systems, scalable APIs, automated testing pipelines, and production-ready software.
+Backend Engineer focused on building reliable systems, scalable APIs, and production-quality software.
 
-Currently studying Computer Information Systems while working on backend engineering, QA automation, database systems, and software architecture.
-
-## What I Do
-
-- Backend Development with Java & Spring Boot
-- PostgreSQL Database Design
-- REST API Development
-- QA Engineering & Test Automation
-- Technical Documentation
-- Containerized Development with Docker
-- System Design & Infrastructure-Oriented Projects
+🎓 Computer Information Systems Student (2027)  
+💼 Backend Engineering • QA Automation • Database Systems  
+🌍 Open to International Opportunities
 
 ---
 
-## Featured Work
+## 🚀 Featured Work
 
-### MOIRA
-Infrastructure intelligence engine designed to model systems as interconnected networks and identify critical dependencies before they become operational risks.
+### 🧠 MOIRA
+Infrastructure intelligence engine for dependency and risk analysis.
 
-**Tech Stack**
-- Spring Boot
-- PostgreSQL
-- Graph Analysis
-- Risk Modeling
+### 🔍 SERAPH
+Semantic intelligence system focused on pattern discovery and retrieval.
 
----
-
-### SERAPH
-Semantic intelligence system focused on identifying conceptual relationships and pattern similarity beyond traditional keyword matching.
-
-**Tech Stack**
-- Spring Boot
-- PostgreSQL
-- Retrieval Systems
-- Semantic Analysis
+### 🏢 WeLab
+Contributed to production backend systems, API documentation, automated testing, QA frameworks, and SOC 2 support.
 
 ---
 
-### WeLab Engineering Experience
-
-Contributed to production backend systems and engineering operations including:
-
-- API Documentation
-- QA Framework Design
-- Automated Testing Development
-- SOC 2 Engineering Support
-- Backend Platform Work
-
-**Technologies**
-- Spring Boot
-- PostgreSQL
-- Docker
-- Cypress
-- JUnit
-
----
-
-## Technical Stack
+## ⚡ Technologies
 
 ### Backend
-- Java
-- Spring Boot
-- REST APIs
-- PostgreSQL
-- SQL
+![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-333?style=for-the-badge&logo=springboot)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge)
 
 ### Testing & Quality
-- Cypress
-- JUnit
-- QA Framework Design
-- Test Automation
+![Cypress](https://img.shields.io/badge/Cypress-333?style=for-the-badge&logo=cypress)
+![JUnit](https://img.shields.io/badge/JUnit-333?style=for-the-badge)
+![QA](https://img.shields.io/badge/QA_Engineering-333?style=for-the-badge)
 
 ### Infrastructure
-- Docker
-- Git
-- CI/CD Concepts
+![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
 
-### Additional Experience
-- Python
-- TypeScript
-- AI/ML Research Projects
+### Additional
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
 
 ---
 
-## Current Focus
+## 🌐 Links
 
-- Building production-grade backend systems
-- Expanding QA automation expertise
-- Software architecture and platform engineering
-- International engineering opportunities for 2027
+🔗 Portfolio:  
+https://asha.mohamad-ismail-asha.workers.dev
 
----
-
-## Portfolio
-
-🌐 https://asha.mohamad-ismail-asha.workers.dev
-
-## Connect
-
-💼 LinkedIn  
+💼 LinkedIn:  
 https://www.linkedin.com/in/mohamed-asha-293472b87
-
-📧 Contact available through portfolio
 
 ---
 
